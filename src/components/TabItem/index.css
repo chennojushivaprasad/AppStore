@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+/* .item {
+  background-color: transparent;
+} */
+
+.item {
+    background-color: transparent;
+  }
+  
+  .button {
+    background-color: transparent;
+    color: #7b8794;
+    border: none;
+    border-bottom: 2px solid #dfe2e5;
+    padding: 10px 15px;
+    font-weight: 600;
+  }
+  
+  .active-tab {
+    border: none;
+    border-bottom: 3px solid #2563eb;
+    padding: 8px 15px 12px 15px;
+    color: #2563eb;
+  }
+  
